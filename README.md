@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there! I am Supun...👋
 
+### About Me:
+
+Accomplished Senior Software Engineer with >4 years’ experience in designing, developing, testing, and maintaining enterprise web applications and software solutions for Transport, retail, micro finance, e commerce healthcare etc. highly proficient overseeing end-to-end delivery of software development lifecycle.
+Excel in designing and developing intuitive full-stack enterprise web applications, applying SOLID design principles and software design patterns across multiple technology stacks. Develops scalable and sustainable systems, with expertise in debugging complex technical issues involving multiple systems.
+Gifted communicator, able to coordinate with internal and external stakeholders, translating complex ideas into actionable outcomes to meet business objectives.
 <!--
 **SupunGeethanjana/SupunGeethanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
